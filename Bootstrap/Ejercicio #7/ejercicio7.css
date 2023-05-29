@@ -1,0 +1,11 @@
+
+.todo {
+    position: relative;
+    left: 50px;
+    top: 50px;
+    width: 50%;
+    border: 1px gray solid;
+    padding: 10px;
+    background-image: linear-gradient(aqua, rgb(58, 58, 168));
+    cursor: pointer;
+}

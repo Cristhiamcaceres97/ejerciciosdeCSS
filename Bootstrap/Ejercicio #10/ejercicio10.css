@@ -1,0 +1,60 @@
+body {
+  width: 100%;
+  padding: px;
+  background-image: linear-gradient(rgb(224, 224, 224), rgb(165, 162, 162), rgb(143, 134, 134), rgb(96, 87, 87), rgb(57, 56, 56), rgb(255, 255, 255));
+}
+
+.todo {
+  width: 100%;
+  padding: 1%;
+}
+
+.parteuno {
+  height: 100px;
+}
+
+.container-fluid {
+  height: 100%;
+}
+
+h1 {
+  text-align: center;
+  color: 255;
+  font-size: 40px;
+  background-color: rgb(106, 156, 156);
+  margin-bottom: 10px;
+}
+
+.partetres {
+  width: 80%;
+  height: 40%;
+  margin-left: 10%;
+}
+
+.partecuatro {
+  text-align: center;
+}
+
+.partecinco {
+  width: 40%;
+  margin-left: 30%;
+  margin-bottom: 20px;
+}
+
+.parteseis {
+  margin-top: 5%;
+}
+
+.partesiete {
+  width: 90%;
+  align-items: center;
+  margin: 5%;
+  background-image: linear-gradient(aqua, rgb(58, 58, 168));
+  cursor: pointer;
+}
+
+.parteocho {
+  margin: 5%;
+  width: 95%;
+  height: 80%;
+}/*# sourceMappingURL=ejercicio10.css.map */
